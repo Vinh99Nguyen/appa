@@ -19,7 +19,7 @@ public class ServiceA implements IServiceA {
 		return result;
 		
 		
-		return 0;
+		//return 0;
 	}
 
 }
